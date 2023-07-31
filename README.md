@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning data structure with cpp
+
 
 
 # 💻 Tech Stack:
